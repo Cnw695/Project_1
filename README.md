@@ -14,18 +14,18 @@ We will be pulling data from Yelps API to examine the coorelation between availa
 
 # Research Questions to Answer
 
-Who has the biggest market share?
-Who has the city/state has the most options?
-Who has the greatest denisty of a specific cuisine?
-Who has the most chain restaurants?
-What are the top 7/ bottom 7 cities in restaurant choices?
-Who has the biggest offering per genre?
-How to ratings coorelate to restaurant volume? 
-Who has the best ratings?
+* Who has the biggest market share?
+* Who has the city/state has the most options?
+* Who has the greatest denisty of a specific cuisine?
+* Who has the most chain restaurants?
+* What are the top 7/ bottom 7 cities in restaurant choices?
+* Who has the biggest offering per genre?
+* How to ratings coorelate to restaurant volume? 
+* Who has the best ratings?
 	
-Datasets to be used
-Yelp API- https://www.yelp.com/developers/documentation/v3
-Postman-https://www.postman.com/
+# Datasets to be used
+* Yelp API- https://www.yelp.com/developers/documentation/v3
+* Postman-https://www.postman.com/
 
 # Rough Breakdown of Tasks
 
