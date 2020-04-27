@@ -10,7 +10,7 @@ What foods are most 'popular' around the country?
 Team Members: Jorge Torres, Nicole Nanton, Clinton Waters, Kasa Ftwi, Nell Meier
 
 # Project Description
-We will be pulling data from Yelps API to examine the coorelation between available foods and the most popular foods collect through user data. We would like to take a look at multiple questions (defined below) to try and determine which cuisine is really leading the nation.  Since we are likely not able to see data on specific user groups or demographics and their preferences, we are going to take a look at more of a high level overview of popular categories that users would deem important when choosing their next dining option or restaurant endevor.  We are choosing to keep the scope of the project limited the top 20 cusines and the top 50 options in each states capital.  
+We will be pulling data from Yelps API to examine the coorelation between available foods and the most popular foods collect through user data. We would like to take a look at multiple questions (defined below) to try and determine which cuisine is really leading the nation.  Since we are likely not able to see data on specific user groups or demographics and their preferences, we are going to take a look at more of a high level overview of popular categories that users would deem important when choosing their next dining option or restaurant endevor.  We are choosing to keep the scope of the project limited to the top 20 cuisines and the top 50 options in each state's capital.  
 
 # Research Questions to Answer
 
