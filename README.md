@@ -1,8 +1,6 @@
 # Project_1
 Yelp Cuisine
 
-Group 4
-
 Project 1
 
 What foods are most 'popular' around the country?
